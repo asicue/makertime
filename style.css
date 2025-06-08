@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: "Alumni Sans Pinstripe";
+}
+
+
+header{
+    background-image: url(flower1.jpg);
+    background-color: #8AAB61;
+    background-size: cover;
+    height: 100vh;
+    box-shadow: inset 0 0 0 1000px #8AAB61;
+    color: rgb(238, 255, 248);
+    display: flex;
+    flex-direction: column;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
